@@ -195,7 +195,7 @@ while True:
             print("Opção inválida, tente novamente.")
 
     # 7 - CUPOM
-    elif escolha == '7'a:
+    elif escolha == '7':
         print("\nCupom disponível:")
         print("A cada compra você acumula 5% de desconto para o próximo pedido.")
 
