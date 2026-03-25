@@ -3,9 +3,10 @@ CRUD
 
 HAMBURGUERIA
 
-EEste sistema irá gerenciar os pedidos de forma agil e oferecer uma experiência única 
-para o atendimento da Hamburgueria 
-Lais
+Este sistema irá gerenciar os pedidos de forma agil e oferecer uma experiência única 
+para o atendimento da Hamburgueria
+
+Lais, Henrique e Rychard
 '''
 
 print('\n === Sistema de Hamburgueria === \n')
