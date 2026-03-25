@@ -49,7 +49,7 @@ while True:
         email_client = input("Digite seu email para recuperar a senha: ")
         print(f"Um email de recuperação de senha foi enviado para {email_client}. Por favor, verifique.")
 
-        elif acessar_menu == '3':
+    elif acessar_menu == '3':
         while True:
             print("\n === Menu === \n")
             print("1. Lanches")
